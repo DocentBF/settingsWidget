@@ -1,1 +1,1 @@
-## shopStats
+settingsWidget для MODX Revolution
